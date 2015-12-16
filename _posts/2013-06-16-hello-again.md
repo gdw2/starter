@@ -11,6 +11,7 @@ title: Untitled
 
 
 
+![avatar.jpg]({{site.baseurl}}/media/avatar.jpg)
 
 HELLO AGAIN!
 
